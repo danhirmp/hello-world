@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+fixing issues created in Hello World!
+
